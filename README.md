@@ -2,7 +2,7 @@
 This is a collection of resources on software architecture. You can find books, blogs, conferences, podcasts and many more. 
 
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
