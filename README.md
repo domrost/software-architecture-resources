@@ -47,7 +47,7 @@ The books are sorted by publication date of the 1st edition.
 - [Michael Nygard: Release It! - Design and Deploy Production-Ready Software, 2nd Edition. The Pragmatic Bookshelf (2018)](https://pragprog.com/titles/mnee2/release-it-second-edition/) <!-- First edition published 2007 -->
 - [Jez Humble, David Farley: Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment. Addison-Wesley Professional (2010)](https://www.pearson.com/us/higher-education/program/Humble-Continuous-Delivery-Reliable-Software-Releases-through-Build-Test-and-Deployment-Automation/PGM249879.html)
 
-## Blogs
+## Blogs & Articles
 
 ### Architects' Blogs
 
@@ -58,15 +58,15 @@ The books are sorted by publication date of the 1st edition.
 ### Companys' Tech & Engineering Blogs
 
 - [Airbnb](https://airbnb.io/)
-- [Netflix](https://netflixtechblog.com/) 
+- [Netflix](https://netflixtechblog.com/)
 - [Uber](https://eng.uber.com/)
 - [LinkedIn](https://engineering.linkedin.com/blog)
 - and many more
 
 ### Tech Articles
 
-- InnoQ (https://www.innoq.com/en/written/)
-- InfoQ (https://www.infoq.com/architecture-design/)
+- [InnoQ](https://www.innoq.com/en/written/)
+- [InfoQ](https://www.infoq.com/architecture-design/)
 
 ## Podcasts
 
