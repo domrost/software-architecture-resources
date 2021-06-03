@@ -20,7 +20,7 @@ The books are sorted by publication date of the 1st edition.
 - [Richard N. Taylor, Nenad Medvidovic, Eric M. Dashofy: Software Architecture: Foundations, Theory, and Practice. Wiley (2009)](https://www.wiley.com/en-us/Software+Architecture%3A+Foundations%2C+Theory%2C+and+Practice-p-9780470167748)
 - [George Fairbanks: Just Enough Software Architecture - A Risk-driven Approach. Marshall & Brainerd (2010)](https://www.georgefairbanks.com/book/)
 - [Ian Gorton: Essential Software Architecture, 2nd Edition. Springer (2011)](https://www.springer.com/gp/book/9783642191756) <!-- First edition published 2010 -->
-- [Stefan Toth Vorgehensmuster für Softwarearchitektur: Kombinierbare Praktiken in Zeiten von Agile und Lean, 3rd Edition. Carl Hanser Verlag GmbH & Co. KG, (2019)](https://www.hanser-elibrary.com/doi/book/10.3139/9783446460096) <!-- First edition published 2013 -->
+- [Stefan Toth: Vorgehensmuster für Softwarearchitektur: Kombinierbare Praktiken in Zeiten von Agile und Lean, 3rd Edition. Carl Hanser Verlag GmbH & Co. KG, (2019)](https://www.hanser-elibrary.com/doi/book/10.3139/9783446460096) <!-- First edition published 2013 -->
 - [Mark Richards, Neal Ford: Fundamentals of Software Architecture - An Engineering Approach. O'Reilly Media, Inc. (2020)](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
 
 ### Software Architecture Design
