@@ -14,14 +14,16 @@ The books are sorted by publication date of the 1st edition.
 
 ### General Software Architecture
 
-- [Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice, 3rd Edition. Addison-Wesley Professional (2013)](https://www.pearson.com/uk/educators/higher-education-educators/program/Bass-Software-Architecture-in-Practice-3rd-Edition/PGM1009732.html) <!-- First edition published 1997 -->
-- [Gernot Starke: Effektive Softwarearchitekturen: Ein praktischer Leitfaden, 9th Edition (German). Carl Hanser Verlag GmbH & Co. KG (2020)](https://www.esabuch.de/) <!-- First edition published 2002 -->
-- [Eoin Woods, Nick Rozanski: Software Systems Architecture, 2nd Edition. Addison-Wesley Professional (2011)](https://www.viewpoints-and-perspectives.info/) <!-- First edition published 2005 -->
-- [Richard N. Taylor, Nenad Medvidovic, Eric M. Dashofy: Software Architecture: Foundations, Theory, and Practice. Wiley (2009)](https://www.wiley.com/en-us/Software+Architecture%3A+Foundations%2C+Theory%2C+and+Practice-p-9780470167748)
-- [George Fairbanks: Just Enough Software Architecture - A Risk-driven Approach. Marshall & Brainerd (2010)](https://www.georgefairbanks.com/book/)
-- [Ian Gorton: Essential Software Architecture, 2nd Edition. Springer (2011)](https://www.springer.com/gp/book/9783642191756) <!-- First edition published 2010 -->
-- [Stefan Toth: Vorgehensmuster für Softwarearchitektur: Kombinierbare Praktiken in Zeiten von Agile und Lean, 3rd Edition. Carl Hanser Verlag GmbH & Co. KG, (2019)](https://www.hanser-elibrary.com/doi/book/10.3139/9783446460096) <!-- First edition published 2013 -->
-- [Mark Richards, Neal Ford: Fundamentals of Software Architecture - An Engineering Approach. O'Reilly Media, Inc. (2020)](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)
+All of the books in this list cover software architecture as a whole and can be used to get started with the topic. While they provide a good overview, they all have a slightly different focus or emphasize a different aspect. In the following list, these differentiating aspects are mentioned primarily.
+
+- [Len Bass, Paul Clements, Rick Kazman: Software Architecture in Practice, 3rd Edition. Addison-Wesley Professional (2013)](https://www.pearson.com/uk/educators/higher-education-educators/program/Bass-Software-Architecture-in-Practice-3rd-Edition/PGM1009732.html) - One of the first and most influential books on software architecture from the [Software Engineering Institute (SEI)](https://www.sei.cmu.edu/). It covers many different aspects of software architecture and introduces many basic terms and concepts, which are largely accepted by the community, today. Its specific focus lies on quality attributes as a driving factor for architecture design. <!-- First edition published 1997 -->
+- [Gernot Starke: Effektive Softwarearchitekturen: Ein praktischer Leitfaden, 9th Edition (German). Carl Hanser Verlag GmbH & Co. KG (2020)](https://www.esabuch.de/) <!-- First edition published 2002 --> - An introductory book in German by Gernot Starke. It also serves as the preparation guide for the certification ["Certified Professional for Software Architecture - Foundation Level"](https://www.isaqb.org/certifications/cpsa-certifications/cpsa-foundation-level/) of the [International Software Architecture Qualification Board (iSAQB)](https://www.isaqb.org/).
+- [Eoin Woods, Nick Rozanski: Software Systems Architecture, 2nd Edition. Addison-Wesley Professional (2011)](https://www.viewpoints-and-perspectives.info/) <!-- First edition published 2005 --> Another one of the early classics of the topic and widely appreciated book. Focus topics are the decomposition and description of architectures using views and perspectives as well as the architecture creation process, particularly by stakeholder involvement.
+- [Richard N. Taylor, Nenad Medvidovic, Eric M. Dashofy: Software Architecture: Foundations, Theory, and Practice. Wiley (2009)](https://www.wiley.com/en-us/Software+Architecture%3A+Foundations%2C+Theory%2C+and+Practice-p-9780470167748): A comprehensive introduction to software architecture, which covers many different aspects of the topic and also provides some academic insights. One of the first books to define software architecture as the set of design decisions made for the system.
+- [George Fairbanks: Just Enough Software Architecture - A Risk-driven Approach. Marshall & Brainerd (2010)](https://www.georgefairbanks.com/book/) - More specialized introduction with focus on architecture modeling. The risk-driven model aims to help architects to focus on the most important aspects, hence the title "Just Enough".
+- [Ian Gorton: Essential Software Architecture, 2nd Edition. Springer (2011)](https://www.springer.com/gp/book/9783642191756) <!-- First edition published 2010 --> - A shorter introduction to software architecture. Besides the basic concepts (terms, quality attributes, documentation, architecting process) it convers several special topics such as middleware, service oriented architectures, aspect-orientation, model-driven architecture or product lines.
+<!-- - [Stefan Toth: Vorgehensmuster für Softwarearchitektur: Kombinierbare Praktiken in Zeiten von Agile und Lean, 3rd Edition (German). Carl Hanser Verlag GmbH & Co. KG, (2019)](https://www.hanser-elibrary.com/doi/book/10.3139/9783446460096) <!-- First edition published 2013 -->
+- [Mark Richards, Neal Ford: Fundamentals of Software Architecture - An Engineering Approach. O'Reilly Media, Inc. (2020)](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/) - The newest kid on the block and therefore the most modern introduction to software architecture. It gives a broad overview of different software architecture aspects including architect's leadership skills. A specific focus lies on the introduction and detailed description of various architecture styles.
 
 ### Software Architecture Design
 
@@ -51,11 +53,11 @@ The books are sorted by publication date of the 1st edition.
 
 ### Architects' Blogs
 
-- [Marting Fowler](https://martinfowler.com/)
+- [Martin Fowler](https://martinfowler.com/)
 - [Gregor Hohpe: The Architect Elevator](https://architectelevator.com/)
 - [Werner Vogels: All Things Distributed](https://www.allthingsdistributed.com/)
 
-### Companys' Tech & Engineering Blogs
+### Companies' Tech & Engineering Blogs
 
 - [Airbnb](https://airbnb.io/)
 - [Netflix](https://netflixtechblog.com/)
@@ -65,6 +67,7 @@ The books are sorted by publication date of the 1st edition.
 
 ### Tech Articles
 
+- [DZone](https://dzone.com/)
 - [InnoQ](https://www.innoq.com/en/written/)
 - [InfoQ](https://www.infoq.com/architecture-design/)
 
