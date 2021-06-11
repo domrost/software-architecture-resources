@@ -4,8 +4,6 @@ This is a collection of resources on software architecture. You can find books, 
 
 Software architecture is a broad field. Therefore, the collection is necessarily incomplete and does not intend to be so. The goal is to provide an overview on the (arguably) most important sources of information for software architects.
 
-Currently, this is only a list. A more detailed explanation of each resource's content and relevance will follow soon.
-
 If you feel anything is missing, feel free to contact me and/or contribute.
 
 ## Books
