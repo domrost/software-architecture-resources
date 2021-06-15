@@ -20,7 +20,6 @@ All of the books in this list cover software architecture as a whole and can be 
 - [Richard N. Taylor, Nenad Medvidovic, Eric M. Dashofy: Software Architecture: Foundations, Theory, and Practice. Wiley (2009)](https://www.wiley.com/en-us/Software+Architecture%3A+Foundations%2C+Theory%2C+and+Practice-p-9780470167748): A comprehensive introduction to software architecture, which covers many different aspects of the topic and also provides some academic insights. One of the first books to define software architecture as the set of design decisions made for the system.
 - [George Fairbanks: Just Enough Software Architecture - A Risk-driven Approach. Marshall & Brainerd (2010)](https://www.georgefairbanks.com/book/) - More specialized introduction with focus on architecture modeling. The risk-driven model aims to help architects to focus on the most important aspects, hence the title "Just Enough".
 - [Ian Gorton: Essential Software Architecture, 2nd Edition. Springer (2011)](https://www.springer.com/gp/book/9783642191756) <!-- First edition published 2010 --> - A shorter introduction to software architecture. Besides the basic concepts (terms, quality attributes, documentation, architecting process) it convers several special topics such as middleware, service oriented architectures, aspect-orientation, model-driven architecture or product lines.
-<!-- - [Stefan Toth: Vorgehensmuster für Softwarearchitektur: Kombinierbare Praktiken in Zeiten von Agile und Lean, 3rd Edition (German). Carl Hanser Verlag GmbH & Co. KG, (2019)](https://www.hanser-elibrary.com/doi/book/10.3139/9783446460096) <!-- First edition published 2013 -->
 - [Mark Richards, Neal Ford: Fundamentals of Software Architecture - An Engineering Approach. O'Reilly Media, Inc. (2020)](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/) - The newest kid on the block and therefore the most modern introduction to software architecture. It gives a broad overview of different software architecture aspects including architect's leadership skills. A specific focus lies on the introduction and detailed description of various architecture styles.
 
 ### Software Architecture Design
@@ -48,6 +47,7 @@ The following list contains books, which focus specifically in architecture desi
 
 - [Michael Nygard: Release It! - Design and Deploy Production-Ready Software, 2nd Edition. The Pragmatic Bookshelf (2018)](https://pragprog.com/titles/mnee2/release-it-second-edition/) <!-- First edition published 2007 -->
 - [Jez Humble, David Farley: Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment. Addison-Wesley Professional (2010)](https://www.pearson.com/us/higher-education/program/Humble-Continuous-Delivery-Reliable-Software-Releases-through-Build-Test-and-Deployment-Automation/PGM249879.html)
+- [Stefan Toth: Vorgehensmuster für Softwarearchitektur: Kombinierbare Praktiken in Zeiten von Agile und Lean, 3rd Edition (German). Carl Hanser Verlag GmbH & Co. KG, (2019)](https://www.hanser-elibrary.com/doi/book/10.3139/9783446460096) <!-- First edition published 2013 -->
 
 ## Blogs & Articles
 
