@@ -119,6 +119,8 @@ The following list contains books, which focus specifically in architecture desi
 - [Neal Ford](https://twitter.com/neal4d)
 - [Kent Beck](https://twitter.com/KentBeck)
 - [Eberhard Wolff](https://twitter.com/ewolff)
+- [Simon Brown](https://twitter.com/simonbrown)
+- [Uwe Friedrichsen](https://twitter.com/ufried)
 
 ## License
 
