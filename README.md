@@ -121,6 +121,7 @@ The following list contains books, which focus specifically in architecture desi
 - [Eberhard Wolff](https://twitter.com/ewolff)
 - [Simon Brown](https://twitter.com/simonbrown)
 - [Uwe Friedrichsen](https://twitter.com/ufried)
+- [Michael Plöd](https://twitter.com/bitboss)
 
 ## License
 
