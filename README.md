@@ -53,9 +53,11 @@ The following list contains books, which focus specifically in architecture desi
 
 ### Architects' Blogs
 
-- [Martin Fowler](https://martinfowler.com/)
+- [Martin Fowler's Blog](https://martinfowler.com/)
 - [Gregor Hohpe: The Architect Elevator](https://architectelevator.com/)
 - [Werner Vogels: All Things Distributed](https://www.allthingsdistributed.com/)
+- [Stefan Tilkov's Blog](https://tilkov.com/)
+- [Uwe Friedrichsen's Blog](https://www.ufried.com/blog/)
 
 ### Companies' Tech & Engineering Blogs
 
