@@ -86,8 +86,9 @@ The following books cover approaches for evaluating and analyzing software archi
 
 ## Videos
 
-- [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
 - [Eberhard Wolff: Software Architektur im Stream (German)](https://software-architektur.tv/)
+- [InfoQ: Presentations](https://www.infoq.com/presentations/)
+- [GOTO Conferences](https://www.youtube.com/user/GotoConferences)
 
 ## Conferences
 
