@@ -127,6 +127,25 @@ The following books cover approaches for evaluating and analyzing software archi
 - [Uwe Friedrichsen](https://twitter.com/ufried)
 - [Michael Plöd](https://twitter.com/bitboss)
 
+<!-- ## Must-read Papers
+
+- [Dewayne E. Perry and Alexander L. Wolf: Foundations for the study of software architecture (1992).](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf) SIGSOFT Software Engineering Notes 17, 4, 40–52. DOI: <https://doi.org/10.1145/141874.141884>
+- [David Garlan, Mary Shaw: An Introduction to Software Architecture (1993).](https://www.cs.cmu.edu/afs/cs/project/vit/ftp/pdf/intro_softarch.pdf) Advances in Software Engineering and Knowledge Engineering Volume I, World Scientific Publishing Company, New Jersey.
+- [David Garlan, Robert Allen, John Ockerbloom: Architectural Mismatch: Why Reuse Is So Hard (1995).](https://www.ics.uci.edu/~taylor/ICS221/papers/ArchMismatch.pdf) IEEE Software. 12, 6, 17–26. DOI: <https://doi.org/10.1109/52.469757>
+- [Mary Shaw and Paul C. Clements: A Field Guide to Boxology: Preliminary Classification of Architectural Styles for Software Systems (1997).](http://www.cs.cmu.edu/~Compose/Boxology.pdf) Proceedings of the 21st International Computer Software and Applications Conference (COMPSAC '97). IEEE Computer Society, USA, 6–13.
+- [Mary Shaw: The Coming-of-Age of Software Architecture Research (2001).](https://www.cs.cmu.edu/afs/cs/project/vit/ftp/pdf/shaw-keynote-rev.pdf) Proceedings of the 23rd International Conference on Software Engineering (ICSE '01). IEEE Computer Society, USA, 656.
+- [Mary Shaw and Paul Clements: The Golden Age of Software Architecture (2006).](https://ieeexplore.ieee.org/document/1605176). IEEE Software, 23, 2, 31-39. DOI: <https://doi.org/10.1109/MS.2006.58>
+- [Anton Jansen, Jan Bosch: Software Architecture as a Set of Architectural Design Decisions (2005)](https://www.ics.uci.edu/~andre/ics223w2006/jansenbosch.pdf). 5th Working IEEE/IFIP Conference on Software Architecture (WICSA'05), 109-120, DOI: <https://doi.org/10.1109/WICSA.2005.61>
+- [David Garlan, Robert Allen, John Ockerbloom: Architectural Mismatch: Why Reuse Is Still So Hard" (2009)](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1074&context=library_papers). IEEE Software, 26, 4, 66-69, DOI: <https://doi.org/10.1109/MS.2009.86> -->
+
+<!-- ## More Resources
+
+- -->
+
+## More Resources on Software Architecture
+
+Stefan Tilkov and Michael Stal did an episode on ["Resources for Software Architects"](https://www.heise.de/developer/artikel/Episode-46-Ressourcen-fuer-Softwarearchitekten-2299439.html) on the [Heise Developer SoftwareArchitekTOUR podcast](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html).
+
 ## License
 
 [![License: CC0-1.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
