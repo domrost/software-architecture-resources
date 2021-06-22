@@ -58,31 +58,31 @@ The following books cover approaches for evaluating and analyzing software archi
 ### Architects' Blogs
 
 - [Martin Fowler's Blog](https://martinfowler.com/)
-- [Gregor Hohpe: The Architect Elevator](https://architectelevator.com/)
-- [Werner Vogels: All Things Distributed](https://www.allthingsdistributed.com/)
-- [Stefan Tilkov's Blog](https://tilkov.com/)
 - [Uwe Friedrichsen's Blog](https://www.ufried.com/blog/)
+- [Gregor Hohpe: The Architect Elevator](https://architectelevator.com/)
+- [Stefan Tilkov's Blog](https://tilkov.com/)
+- [Werner Vogels: All Things Distributed](https://www.allthingsdistributed.com/)
 
 ### Companies' Tech & Engineering Blogs
 
 - [Airbnb](https://airbnb.io/)
+- [LinkedIn](https://engineering.linkedin.com/blog)
 - [Netflix](https://netflixtechblog.com/)
 - [Uber](https://eng.uber.com/)
-- [LinkedIn](https://engineering.linkedin.com/blog)
 - and many more
 
 ### Tech Articles
 
 - [DZone](https://dzone.com/)
-- [InnoQ](https://www.innoq.com/en/written/)
 - [InfoQ](https://www.infoq.com/architecture-design/)
+- [InnoQ](https://www.innoq.com/en/written/)
 
 ## Podcasts
 
-- [Software Engineering Radio](https://www.se-radio.net/)
 - [Conversations about Software Engineering - CASE Podcast](https://www.case-podcast.org/)
 - [Heise Developer: SoftwareArchitekTOUR (German)](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html)
 - [InnoQ Podcast (German)](https://www.innoq.com/de/podcast/)
+- [Software Engineering Radio](https://www.se-radio.net/)
 
 ## Videos
 
@@ -93,39 +93,39 @@ The following books cover approaches for evaluating and analyzing software archi
 
 ### Practitioner Conferences
 
-- [GOTO Conference](https://gotopia.tech/)
-- [QCon](https://qconferences.com/)
 - [Global Software Architecture Summit](https://gsas.io/)
-- [Software Architecture Gathering](https://conferences.isaqb.org/software-architecture-gathering/)
+- [GOTO Conference](https://gotopia.tech/)
 - [JAX / W-JAX](https://jax.de/)
 - [OOP (German)](https://www.oop-konferenz.de/oop2022.html)
+- [QCon](https://qconferences.com/)
 - [Software Architecture Alliance (German)](https://www.software-architecture-alliance.de/)
+- [Software Architecture Gathering](https://conferences.isaqb.org/software-architecture-gathering/)
 
 ### Scientific Conferences
 
-- [International Conference on Software Architecture (ICSA)](https://icsa-conferences.org/)
 - [European Conference on Software Architecture (ECSA)](https://conf.researchr.org/home/ecsa-2021)
+- [International Conference on Software Architecture (ICSA)](https://icsa-conferences.org/)
 
 ## People to Follow
 
+- [Kent Beck](https://twitter.com/KentBeck)
+- [Grady Booch](https://twitter.com/Grady_Booch)
+- [Jan Bosch](https://twitter.com/janbosch)
+- [Simon Brown](https://twitter.com/simonbrown)
+- [Neal Ford](https://twitter.com/neal4d)
 - [Martin Fowler](https://twitter.com/martinfowler)
 - [Kevlin Henney](https://twitter.com/KevlinHenney)
-- [Uncle Bob Martin](https://twitter.com/unclebobmartin)
-- [Grady Booch](https://twitter.com/Grady_Booch)
-- [Michael Nygard](https://twitter.com/mtnygard)
-- [Allen Holub](https://twitter.com/allenholub)
-- [Eoin Woods](https://twitter.com/eoinwoodz)
 - [Gregor Hohpe](https://twitter.com/ghohpe)
+- [Allen Holub](https://twitter.com/allenholub)
+- [Uncle Bob Martin](https://twitter.com/unclebobmartin)
+- [Sam Newman](https://twitter.com/samnewman)
+- [Michael Nygard](https://twitter.com/mtnygard)
+- [Michael Plöd](https://twitter.com/bitboss)
 - [Mary Poppendieck](https://twitter.com/mpoppendieck)
 - [Stefan Tilkov](https://twitter.com/stilkov)
-- [Jan Bosch](https://twitter.com/janbosch)
-- [Sam Newman](https://twitter.com/samnewman)
-- [Neal Ford](https://twitter.com/neal4d)
-- [Kent Beck](https://twitter.com/KentBeck)
 - [Eberhard Wolff](https://twitter.com/ewolff)
-- [Simon Brown](https://twitter.com/simonbrown)
 - [Uwe Friedrichsen](https://twitter.com/ufried)
-- [Michael Plöd](https://twitter.com/bitboss)
+- [Eoin Woods](https://twitter.com/eoinwoodz)
 
 <!-- ## Must-read Papers
 
