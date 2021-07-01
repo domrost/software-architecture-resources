@@ -49,9 +49,16 @@ The following books cover approaches for evaluating and analyzing software archi
 - [Jens Knodel, Matthias Naab: Pragmatic Evaluation of Software Architectures. Springer (2016)](https://www.springer.com/gp/book/9783319341767) - Jens Knodel and Matthias Naab wrote a book on their Rapid Architecture Evaluation (RATE) method, which is originally based on ATAM, but adapted to integrate their experiences from over 50 architecture evaluations with various companies over many years. It includes different checks on different levels and of different artifacts, such as architecture drivers, the adequacy of the architecture, the quality of the documentation or the compliance of the implementation.
 - [Christine Koppelt, Markus Harrer, Gernot Starke, Benjamin Wolf, Martin Otten: Software Reviews - Identifying Risks and Problems in Software. Leanpub (2020)](https://leanpub.com/software-reviews-en) - A short guide for software reviews, which also presents analysis approaches on different levels and for different artifacts.
 
+### Coding
+
+Architects must know what they abstract from. So, knowing good programming is highly recommended for architects.
+
+- [Dave Thomas, Andrew Hunt: The Pragmatic Programmer. From Journeyman to Master, 20th Anniversary Edition, 2nd Edition. Addison-Wesley Professional (2019)](https://www.pearson.com/store/p/the-pragmatic-programmer-your-journey-to-mastery-20th-anniversary-edition/P100002723040/9780135957059?tab=overview) Very influential book that many areas of working successfully as a professional developer. Considered as an absolute must-read book by many.<!-- First edition published 1999-->
+- [Robert C. Martin: Clean Code: A Handbook of Agile Software Craftsmanship. Pearson Education (2008)](https://www.pearson.com/us/higher-education/program/Martin-Clean-Code-A-Handbook-of-Agile-Software-Craftsmanship/PGM63937.html) - The classical book by Uncle Bob describes how to write good code, for example by choosing good names, formatting right, testing well, handling errors, etc.
+
 ### Other Software Architecture-Related Topics
 
-- [Michael Nygard: Release It! - Design and Deploy Production-Ready Software, 2nd Edition. The Pragmatic Bookshelf (2018)](https://pragprog.com/titles/mnee2/release-it-second-edition/) - In his highly acclaimed book, Michael Nygard describes how to design and build systems for real-life production and operation. It provides information and hints for achieving many quality attributes which are important for many productive software systems, such as reliability, stability or operability.  <!-- First edition published 2007 -->
+- [Michael Nygard: Release It! - Design and Deploy Production-Ready Software, 2nd Edition. The Pragmatic Bookshelf (2018)](https://pragprog.com/titles/mnee2/release-it-second-edition/) - In his highly popular book, Michael Nygard describes how to design and build systems for real-life production and operation. It provides information and hints for achieving many quality attributes which are important for many productive software systems, such as reliability, stability or operability.  <!-- First edition published 2007 -->
 - [Jez Humble, David Farley: Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment. Addison-Wesley Professional (2010)](https://www.pearson.com/us/higher-education/program/Humble-Continuous-Delivery-Reliable-Software-Releases-through-Build-Test-and-Deployment-Automation/PGM249879.html) - The classic book about continuous delivery by Jez Humble and Dave Farley.
 
 ## Blogs & Articles
