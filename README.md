@@ -2,7 +2,7 @@
 
 This is a collection of resources on software architecture. You can find books, blogs, conferences, podcasts and other things.
 
-Software architecture is a broad field. Therefore, the collection is necessarily incomplete and does not intend to be so. The goal is to provide an overview on the (arguably) most important sources of information for software architects.
+Software architecture is a broad field. Therefore, the collection cannot be complete and does not intend to be. Its goal is to provide an overview on the (arguably) most important sources of information for software architects.
 
 If you feel anything is missing, feel free to contact me and/or contribute.
 
