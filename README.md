@@ -58,7 +58,7 @@ Architects must know what they abstract from. So, knowing good programming is hi
 
 ### Other Software Architecture-Related Topics
 
-- [Michael Nygard: Release It! - Design and Deploy Production-Ready Software, 2nd Edition. The Pragmatic Bookshelf (2018)](https://pragprog.com/titles/mnee2/release-it-second-edition/) - In his highly popular book, Michael Nygard describes how to design and build systems for real-life production and operation. It provides information and hints for achieving many quality attributes which are important for many productive software systems, such as reliability, stability or operability.  <!-- First edition published 2007 -->
+- [Michael Nygard: Release It! - Design and Deploy Production-Ready Software, 2nd Edition. The Pragmatic Bookshelf (2018)](https://pragprog.com/titles/mnee2/release-it-second-edition/) - In his very popular book, Michael Nygard describes how to design and build systems for real-life production and operation. It provides information and hints for achieving many quality attributes, which are important for productive software systems, such as reliability, stability or operability.  <!-- First edition published 2007 -->
 - [Jez Humble, David Farley: Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment. Addison-Wesley Professional (2010)](https://www.pearson.com/us/higher-education/program/Humble-Continuous-Delivery-Reliable-Software-Releases-through-Build-Test-and-Deployment-Automation/PGM249879.html) - The classic book about continuous delivery by Jez Humble and Dave Farley.
 
 ## Blogs & Articles
